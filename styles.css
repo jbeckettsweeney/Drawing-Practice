@@ -1,0 +1,22 @@
+* {
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+canvas {
+    background-color: white;
+}
+
+body {
+    background-color: rgb(215, 231, 255);
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
